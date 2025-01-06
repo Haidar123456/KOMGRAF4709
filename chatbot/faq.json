@@ -1,0 +1,275 @@
+[
+    {
+        "question": "Saya merasa sangat lelah belakangan ini, apa yang bisa saya lakukan?",
+        "answer": "Cobalah tidur yang cukup dan atur jadwal untuk istirahat di tengah kesibukan."
+    },
+    {
+        "question": "Kenapa saya sering merasa kesepian?",
+        "answer": "Kesepian bisa datang ketika kita merasa kurang terhubung dengan orang lain. Cobalah untuk berkomunikasi lebih sering dengan teman atau keluarga."
+    },
+    {
+        "question": "Saya merasa mudah marah, kenapa ya?",
+        "answer": "Kemarahan bisa terjadi karena stres atau frustrasi. Cobalah untuk meluangkan waktu sejenak untuk menenangkan diri."
+    },
+    {
+        "question": "Saya merasa tertekan dengan pekerjaan saya, apa yang bisa dilakukan?",
+        "answer": "Penting untuk memberi batasan dan mencoba mengatur waktu dengan bijak. Jangan ragu untuk meminta bantuan jika perlu."
+    },
+    {
+        "question": "Saya merasa tidak ada yang mengerti saya, bagaimana menghadapinya?",
+        "answer": "Cobalah untuk berbicara dengan seseorang yang bisa Anda percayai dan jelaskan perasaan Anda."
+    },
+    {
+        "question": "Apa yang harus dilakukan jika saya merasa cemas tentang masa depan?",
+        "answer": "Fokuslah pada hal-hal yang bisa Anda kontrol saat ini, dan buat rencana kecil untuk menghadapi masa depan."
+    },
+    {
+        "question": "Saya merasa tidak ada yang berubah meski sudah berusaha, apa yang salah?",
+        "answer": "Perubahan memerlukan waktu. Cobalah untuk sabar dan terus lakukan usaha kecil setiap hari."
+    },
+    {
+        "question": "Kenapa saya merasa tidak termotivasi?",
+        "answer": "Kadang-kadang, kita kehilangan motivasi karena terlalu fokus pada hasil. Cobalah untuk menikmati prosesnya."
+    },
+    {
+        "question": "Saya merasa cemas tentang ujian yang akan datang, apa yang harus dilakukan?",
+        "answer": "Cobalah untuk belajar dengan teratur dan cukup tidur agar siap menghadapi ujian."
+    },
+    {
+        "question": "Apa yang harus saya lakukan jika saya merasa tidak percaya diri?",
+        "answer": "Cobalah untuk fokus pada kekuatan dan pencapaian Anda, serta berbicara dengan orang yang bisa memberi dukungan."
+    },
+    {
+        "question": "Kenapa saya merasa tidak ada energi untuk beraktivitas?",
+        "answer": "Kurang tidur atau terlalu banyak stres bisa mengurangi energi. Cobalah untuk tidur lebih nyenyak dan atur waktu untuk bersantai."
+    },
+    {
+        "question": "Saya merasa cemas ketika berada di keramaian, bagaimana cara menghadapinya?",
+        "answer": "Cobalah teknik pernapasan dalam atau temukan tempat yang lebih tenang untuk menenangkan diri."
+    },
+    {
+        "question": "Saya merasa tidak bisa berhenti berpikir negatif, bagaimana cara mengatasinya?",
+        "answer": "Cobalah untuk mengalihkan perhatian Anda pada aktivitas positif atau berbicara dengan seseorang yang bisa membantu."
+    },
+    {
+        "question": "Kenapa saya merasa tidak bersemangat meski sedang liburan?",
+        "answer": "Kadang-kadang, stres atau kecemasan bisa merusak suasana hati. Cobalah untuk memberi waktu bagi diri sendiri untuk benar-benar bersantai."
+    },
+    {
+        "question": "Saya merasa sangat cemas tentang kesehatan saya, apa yang harus dilakukan?",
+        "answer": "Cobalah untuk menjaga pola makan sehat dan melakukan aktivitas fisik yang ringan untuk menjaga tubuh tetap sehat."
+    },
+    {
+        "question": "Apa yang harus saya lakukan jika merasa terjebak dalam rutinitas?",
+        "answer": "Cobalah untuk membuat perubahan kecil dalam rutinitas Anda, seperti mencoba hobi baru atau berbicara dengan orang baru."
+    },
+    {
+        "question": "Kenapa saya merasa tidak ada harapan lagi?",
+        "answer": "Rasa tidak ada harapan bisa datang saat kita merasa tertekan. Cobalah untuk mencari dukungan dari orang lain atau seorang profesional."
+    },
+    {
+        "question": "Saya merasa sangat mudah tersinggung, bagaimana cara mengatasinya?",
+        "answer": "Cobalah untuk mengenali pemicu emosi Anda dan memberi waktu bagi diri sendiri untuk merespon dengan tenang."
+    },
+    {
+        "question": "Saya merasa selalu tertekan, apa yang bisa saya lakukan?",
+        "answer": "Cobalah untuk berolahraga, tidur yang cukup, dan luangkan waktu untuk kegiatan yang menyenangkan."
+    },
+    {
+        "question": "Apa yang harus saya lakukan jika merasa tidak ada yang mendengarkan saya?",
+        "answer": "Cari seseorang yang benar-benar bisa mendengarkan, atau pertimbangkan untuk berbicara dengan seorang konselor atau terapis."
+    },
+    {
+        "question": "Saya merasa stres karena pekerjaan, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk membagi pekerjaan menjadi tugas-tugas kecil dan beristirahat di antara pekerjaan."
+    },
+    {
+        "question": "Saya merasa kehilangan semangat, bagaimana cara mengembalikannya?",
+        "answer": "Cobalah untuk mengevaluasi tujuan Anda dan atur langkah kecil untuk mencapainya. Jangan ragu untuk meminta dukungan."
+    },
+    {
+        "question": "Kenapa saya merasa terasing dari teman-teman saya?",
+        "answer": "Perasaan terasing bisa datang ketika ada perbedaan dalam kehidupan atau perasaan kita. Cobalah untuk berbicara dan menjelaskan perasaan Anda."
+    },
+    {
+        "question": "Saya merasa kesulitan untuk bangun pagi, apa yang bisa saya lakukan?",
+        "answer": "Cobalah untuk tidur lebih awal dan tentukan rutinitas pagi yang menyenangkan."
+    },
+    {
+        "question": "Saya merasa tidak bahagia meskipun banyak hal baik dalam hidup saya, kenapa?",
+        "answer": "Kadang-kadang kita lupa untuk menghargai hal-hal kecil. Cobalah untuk fokus pada hal-hal yang membuat Anda bersyukur."
+    },
+    {
+        "question": "Saya merasa tidak ada kemajuan dalam hidup, bagaimana cara menghadapinya?",
+        "answer": "Perubahan memerlukan waktu. Fokus pada langkah kecil dan berikan waktu untuk melihat hasilnya."
+    },
+    {
+        "question": "Saya merasa mudah tertekan saat bekerja, apa yang bisa saya lakukan?",
+        "answer": "Cobalah untuk membuat prioritas dan beri diri Anda waktu untuk beristirahat."
+    },
+    {
+        "question": "Saya merasa tidak nyaman dengan diri sendiri, bagaimana cara mengatasinya?",
+        "answer": "Cobalah untuk fokus pada kualitas positif dalam diri Anda dan berbicara dengan seseorang yang Anda percayai."
+    },
+    {
+        "question": "Saya merasa sangat takut gagal, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk melihat kegagalan sebagai kesempatan untuk belajar, bukan sebagai akhir."
+    },
+    {
+        "question": "Saya merasa tidak bisa mengontrol emosi saya, bagaimana cara mengatasinya?",
+        "answer": "Cobalah untuk berlatih pernapasan dalam atau meditasi untuk menenangkan pikiran dan tubuh."
+    },
+    {
+        "question": "Saya merasa tertekan karena hubungan saya, apa yang harus dilakukan?",
+        "answer": "Cobalah untuk berbicara terbuka dengan pasangan Anda dan cari solusi bersama."
+    },
+    {
+        "question": "Saya merasa terlalu banyak yang harus dilakukan, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk membagi tugas menjadi bagian yang lebih kecil dan fokus pada satu hal pada satu waktu."
+    },
+    {
+        "question": "Kenapa saya sering merasa tidak ada waktu untuk diri sendiri?",
+        "answer": "Cobalah untuk mengatur waktu dengan lebih baik dan beri diri Anda ruang untuk istirahat."
+    },
+    {
+        "question": "Saya merasa tidak bisa menjalani hidup dengan baik, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk fokus pada hal-hal yang membuat Anda merasa bahagia dan berbicara dengan seseorang yang mendukung Anda."
+    },
+    {
+        "question": "Saya merasa tertekan karena banyaknya tanggung jawab, apa yang bisa saya lakukan?",
+        "answer": "Cobalah untuk berbicara dengan seseorang untuk meringankan beban atau atur prioritas dengan baik."
+    },
+    {
+        "question": "Saya merasa tidak bisa berhenti berpikir tentang hal-hal buruk, bagaimana cara mengatasinya?",
+        "answer": "Cobalah untuk melakukan kegiatan yang menyenangkan atau fokus pada hal-hal positif dalam hidup Anda."
+    },
+    {
+        "question": "Kenapa saya merasa terjebak dalam rutinitas yang membosankan?",
+        "answer": "Cobalah untuk mencari kegiatan baru yang bisa memberi tantangan dan kegembiraan."
+    },
+    {
+        "question": "Saya merasa sangat cemas jika ada orang yang tidak setuju dengan saya, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk menerima bahwa tidak semua orang akan setuju dengan Anda, dan itu tidak mengurangi nilai Anda."
+    },
+    {
+        "question": "Saya merasa tidak punya kontrol atas hidup saya, apa yang bisa saya lakukan?",
+        "answer": "Cobalah untuk fokus pada hal-hal yang dapat Anda kontrol dan buat langkah kecil menuju perubahan."
+    },
+    {
+        "question": "Saya merasa tidak bisa menikmati hidup saya, bagaimana cara mengubahnya?",
+        "answer": "Cobalah untuk lebih menghargai momen kecil dan lakukan hal-hal yang membuat Anda merasa bahagia."
+    },
+    {
+        "question": "Saya merasa sangat khawatir tentang masa depan saya, apa yang harus dilakukan?",
+        "answer": "Cobalah untuk menetapkan tujuan kecil yang realistis dan fokus pada langkah-langkah yang bisa Anda ambil sekarang."
+    },
+
+    {
+        "question": "Saya merasa tertekan dengan hubungan saya, apa yang harus saya lakukan?",
+        "answer": "Cobalah untuk berbicara terbuka dengan pasangan Anda dan cari solusi bersama."
+    },
+    {
+        "question": "Saya merasa cemas karena pekerjaan yang menumpuk, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk membuat daftar tugas dan fokus pada satu hal terlebih dahulu."
+    },
+    {
+        "question": "Saya merasa tidak bisa mengatasi kegagalan, bagaimana cara bangkit?",
+        "answer": "Ingatlah bahwa kegagalan adalah bagian dari proses belajar. Cobalah untuk mengambil pelajaran dari pengalaman tersebut dan melangkah maju."
+    },
+    {
+        "question": "Saya merasa kesepian meskipun ada banyak orang di sekitar saya, apa yang harus saya lakukan?",
+        "answer": "Kesepian bisa terjadi meski kita dikelilingi orang. Cobalah untuk mencari koneksi yang lebih mendalam dengan orang yang bisa memahami Anda."
+    },
+    {
+        "question": "Saya merasa sangat cemas tentang masa depan karier saya, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk menetapkan tujuan yang jelas dan buat langkah-langkah kecil untuk mencapainya. Fokus pada apa yang bisa Anda kontrol."
+    },
+    {
+        "question": "Saya merasa mudah tersinggung oleh komentar orang lain, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk menerima bahwa tidak semua komentar perlu diambil secara pribadi. Latih diri Anda untuk merespon dengan lebih tenang."
+    },
+    {
+        "question": "Saya merasa terjebak dalam rutinitas harian, bagaimana cara mengubahnya?",
+        "answer": "Cobalah untuk membuat perubahan kecil dalam rutinitas Anda, seperti mengambil waktu untuk hobi atau mencoba aktivitas baru."
+    },
+    {
+        "question": "Saya merasa sangat lelah meskipun sudah tidur cukup, apa yang bisa saya lakukan?",
+        "answer": "Terlalu banyak stres atau kecemasan bisa menyebabkan kelelahan. Cobalah untuk berolahraga ringan atau bermeditasi untuk membantu mengurangi stres."
+    },
+    {
+        "question": "Saya merasa tidak dihargai, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk berbicara dengan orang yang membuat Anda merasa tidak dihargai dan ungkapkan perasaan Anda dengan jujur."
+    },
+    {
+        "question": "Saya merasa kesulitan untuk berkomunikasi dengan orang lain, bagaimana cara memperbaikinya?",
+        "answer": "Cobalah untuk lebih mendengarkan orang lain dan berbicara dengan cara yang jelas dan terbuka. Latihan komunikasi bisa membantu."
+    },
+    {
+        "question": "Saya merasa tertekan karena ekspektasi orang lain, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk menetapkan ekspektasi Anda sendiri dan ingat bahwa Anda tidak perlu memenuhi harapan orang lain yang tidak realistis."
+    },
+    {
+        "question": "Saya merasa tidak ada yang mengerti perjuangan saya, bagaimana cara menghadapinya?",
+        "answer": "Cobalah untuk berbicara dengan seseorang yang bisa memberikan dukungan dan coba jelaskan perasaan Anda dengan lebih terbuka."
+    },
+    {
+        "question": "Saya merasa takut untuk mencoba hal baru, bagaimana cara mengatasinya?",
+        "answer": "Cobalah untuk melihat perubahan sebagai kesempatan untuk berkembang dan belajar. Mulailah dengan langkah kecil untuk membangun keberanian."
+    },
+        {
+            "question": "Saya merasa selalu cemas ketika menghadapi perubahan, apa yang bisa saya lakukan?",
+            "answer": "Perubahan memang bisa menakutkan, tapi cobalah untuk melihatnya sebagai peluang baru. Fokus pada hal-hal yang bisa Anda kontrol."
+        },
+        {
+            "question": "Saya merasa tidak bisa mengendalikan hidup saya, bagaimana cara mendapatkan kontrol kembali?",
+            "answer": "Cobalah untuk mulai dengan hal-hal kecil yang dapat Anda kontrol, seperti rutinitas harian, dan beri diri Anda ruang untuk tumbuh."
+        },
+        {
+            "question": "Saya merasa seperti saya selalu mengorbankan kebahagiaan saya untuk orang lain, apa yang harus dilakukan?",
+            "answer": "Penting untuk menjaga keseimbangan. Cobalah untuk memberi waktu bagi diri sendiri dan menghargai kebahagiaan Anda."
+        },
+        {
+            "question": "Saya merasa tidak produktif dan malas, bagaimana cara mengatasinya?",
+            "answer": "Cobalah untuk menetapkan tujuan yang realistis dan bagi pekerjaan menjadi tugas-tugas kecil agar lebih mudah dicapai."
+        },
+        {
+            "question": "Saya merasa tidak punya waktu untuk diri sendiri, bagaimana cara mengelolanya?",
+            "answer": "Cobalah untuk mengatur prioritas dan pastikan untuk meluangkan waktu bagi diri sendiri, meskipun hanya sebentar setiap hari."
+        },
+        {
+            "question": "Saya merasa terjebak dalam pola pikir negatif, bagaimana cara keluar dari itu?",
+            "answer": "Cobalah untuk mengenali pola pikir negatif dan ubah dengan pemikiran yang lebih positif atau berbicara dengan seseorang yang mendukung."
+        },
+        {
+            "question": "Saya merasa sangat cemas menjelang pertemuan penting, apa yang bisa saya lakukan?",
+            "answer": "Cobalah untuk mempersiapkan diri dengan baik dan ingat bahwa Anda sudah berusaha. Ambil napas dalam-dalam dan tetap tenang."
+        },
+        {
+            "question": "Saya merasa tertekan karena standar kecantikan yang tidak realistis, bagaimana cara menghadapinya?",
+            "answer": "Ingatlah bahwa kecantikan sejati berasal dari dalam. Fokus pada kualitas positif Anda dan terima diri sendiri apa adanya."
+        },
+        {
+            "question": "Saya merasa kesulitan untuk memaafkan diri sendiri, apa yang harus dilakukan?",
+            "answer": "Cobalah untuk mengingat bahwa semua orang membuat kesalahan. Berikan diri Anda izin untuk belajar dan tumbuh dari pengalaman tersebut."
+        },
+        {
+            "question": "Saya merasa sangat lelah karena tekanan pekerjaan, apa yang harus saya lakukan?",
+            "answer": "Cobalah untuk mengatur waktu dengan baik, bagi pekerjaan menjadi bagian yang lebih kecil, dan pastikan untuk beristirahat."
+        },
+        {
+            "question": "Saya merasa cemas tentang hubungan saya, bagaimana cara menghadapinya?",
+            "answer": "Cobalah untuk berbicara terbuka dengan pasangan Anda dan ungkapkan perasaan Anda dengan jujur agar saling memahami."
+        },
+        {
+            "question": "Saya merasa tidak cukup baik dalam segala hal, bagaimana cara memperbaikinya?",
+            "answer": "Ingatlah bahwa tidak ada yang sempurna. Fokus pada pencapaian kecil dan hargai setiap langkah yang Anda ambil."
+        },
+        {
+            "question": "Saya merasa tidak bisa menghadapi masalah saya, bagaimana cara menghadapinya?",
+            "answer": "Cobalah untuk memecah masalah menjadi bagian yang lebih kecil dan hadapi satu per satu. Jangan ragu untuk mencari dukungan dari orang lain."
+        }
+
+    
+
+]
+
